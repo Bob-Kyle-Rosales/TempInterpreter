@@ -1,0 +1,3 @@
+BEGIN CODE
+INT x, y=5
+END CODE
